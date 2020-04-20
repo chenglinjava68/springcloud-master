@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eureka-a" />
+        <module name="eureka-b" />
+        <module name="spring-cloud-01-consumer" />
+        <module name="spring-cloud-01-provider" />
+        <module name="spring-cloud-02-ribbon-client-1" />
+        <module name="spring-cloud-02-ribbon-client-2" />
+        <module name="spring-cloud-02-ribbon-request" />
+        <module name="spring-cloud-02-ribbon-retry" />
+        <module name="spring-cloud-03-hystrix-client" />
+        <module name="spring-cloud-03-hystrix-dashboard" />
+        <module name="spring-cloud-03-hystrix-request-a" />
+        <module name="spring-cloud-03-hystrix-request-b" />
+        <module name="spring-cloud-03-hystrix-turbine" />
+        <module name="spring-cloud-04-feign-consumer" />
+        <module name="spring-cloud-04-feign-provider" />
+        <module name="spring-cloud-05-gateway" />
+        <module name="spring-cloud-05-hello-service" />
+        <module name="spring-cloud-05-luck-service" />
+        <module name="spring-cloud-06-config-client" />
+        <module name="spring-cloud-06-config-server" />
+        <module name="spring-cloud-07-bus-config-client" />
+        <module name="spring-cloud-07-bus-config-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eureka-a" target="1.8" />
+      <module name="eureka-b" target="1.8" />
+      <module name="spring-cloud-01-consumer" target="1.8" />
+      <module name="spring-cloud-01-provider" target="1.8" />
+      <module name="spring-cloud-02-ribbon-client-1" target="1.8" />
+      <module name="spring-cloud-02-ribbon-client-2" target="1.8" />
+      <module name="spring-cloud-02-ribbon-request" target="1.8" />
+      <module name="spring-cloud-02-ribbon-retry" target="1.8" />
+      <module name="spring-cloud-03-hystrix-client" target="1.8" />
+      <module name="spring-cloud-03-hystrix-dashboard" target="1.8" />
+      <module name="spring-cloud-03-hystrix-request-a" target="1.8" />
+      <module name="spring-cloud-03-hystrix-request-b" target="1.8" />
+      <module name="spring-cloud-03-hystrix-turbine" target="1.8" />
+      <module name="spring-cloud-04-feign-consumer" target="1.8" />
+      <module name="spring-cloud-04-feign-provider" target="1.8" />
+      <module name="spring-cloud-05-gateway" target="1.8" />
+      <module name="spring-cloud-05-hello-service" target="1.8" />
+      <module name="spring-cloud-05-luck-service" target="1.8" />
+      <module name="spring-cloud-06-config-client" target="1.8" />
+      <module name="spring-cloud-06-config-server" target="1.8" />
+      <module name="spring-cloud-07-bus-config-client" target="1.8" />
+      <module name="spring-cloud-07-bus-config-server" target="1.8" />
+      <module name="spring-cloud-master" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

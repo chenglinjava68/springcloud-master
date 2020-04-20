@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka-a/eureka-a.iml" filepath="$PROJECT_DIR$/eureka-a/eureka-a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-b/eureka-b.iml" filepath="$PROJECT_DIR$/eureka-b/eureka-b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-01-consumer/spring-cloud-01-consumer.iml" filepath="$PROJECT_DIR$/spring-cloud-01-consumer/spring-cloud-01-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-01-provider/spring-cloud-01-provider.iml" filepath="$PROJECT_DIR$/spring-cloud-01-provider/spring-cloud-01-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-02-ribbon-client-1/spring-cloud-02-ribbon-client-1.iml" filepath="$PROJECT_DIR$/spring-cloud-02-ribbon-client-1/spring-cloud-02-ribbon-client-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-02-ribbon-client-2/spring-cloud-02-ribbon-client-2.iml" filepath="$PROJECT_DIR$/spring-cloud-02-ribbon-client-2/spring-cloud-02-ribbon-client-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-02-ribbon-request/spring-cloud-02-ribbon-request.iml" filepath="$PROJECT_DIR$/spring-cloud-02-ribbon-request/spring-cloud-02-ribbon-request.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-02-ribbon-retry/spring-cloud-02-ribbon-retry.iml" filepath="$PROJECT_DIR$/spring-cloud-02-ribbon-retry/spring-cloud-02-ribbon-retry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-03-hystrix-client/spring-cloud-03-hystrix-client.iml" filepath="$PROJECT_DIR$/spring-cloud-03-hystrix-client/spring-cloud-03-hystrix-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-03-hystrix-dashboard/spring-cloud-03-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/spring-cloud-03-hystrix-dashboard/spring-cloud-03-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-03-hystrix-request-a/spring-cloud-03-hystrix-request-a.iml" filepath="$PROJECT_DIR$/spring-cloud-03-hystrix-request-a/spring-cloud-03-hystrix-request-a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-03-hystrix-request-b/spring-cloud-03-hystrix-request-b.iml" filepath="$PROJECT_DIR$/spring-cloud-03-hystrix-request-b/spring-cloud-03-hystrix-request-b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-03-hystrix-turbine/spring-cloud-03-hystrix-turbine.iml" filepath="$PROJECT_DIR$/spring-cloud-03-hystrix-turbine/spring-cloud-03-hystrix-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-04-feign-consumer/spring-cloud-04-feign-consumer.iml" filepath="$PROJECT_DIR$/spring-cloud-04-feign-consumer/spring-cloud-04-feign-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-04-feign-provider/spring-cloud-04-feign-provider.iml" filepath="$PROJECT_DIR$/spring-cloud-04-feign-provider/spring-cloud-04-feign-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-05-gateway/spring-cloud-05-gateway.iml" filepath="$PROJECT_DIR$/spring-cloud-05-gateway/spring-cloud-05-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-05-hello-service/spring-cloud-05-hello-service.iml" filepath="$PROJECT_DIR$/spring-cloud-05-hello-service/spring-cloud-05-hello-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-05-luck-service/spring-cloud-05-luck-service.iml" filepath="$PROJECT_DIR$/spring-cloud-05-luck-service/spring-cloud-05-luck-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-06-config-client/spring-cloud-06-config-client.iml" filepath="$PROJECT_DIR$/spring-cloud-06-config-client/spring-cloud-06-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-06-config-server/spring-cloud-06-config-server.iml" filepath="$PROJECT_DIR$/spring-cloud-06-config-server/spring-cloud-06-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-07-bus-config-client/spring-cloud-07-bus-config-client.iml" filepath="$PROJECT_DIR$/spring-cloud-07-bus-config-client/spring-cloud-07-bus-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-07-bus-config-server/spring-cloud-07-bus-config-server.iml" filepath="$PROJECT_DIR$/spring-cloud-07-bus-config-server/spring-cloud-07-bus-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-master.iml" filepath="$PROJECT_DIR$/spring-cloud-master.iml" />
+    </modules>
+  </component>
+</project>
